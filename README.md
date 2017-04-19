@@ -1,5 +1,2 @@
-# List Blogs
-
-* [Thoughtbot](https://robots.thoughtbot.com/) (Ruby, Vim, Rails, React)
-* [freeCodeCamp](https://medium.freecodecamp.com) (NodeJS, React)
-* [Bukalapak Engineering](https://engineering.bukalapak.io) (Ruby, Rails)
+* [List Blogs](https://github.com/dimasjt/awesome/blob/master/blog.md)
+* [Nodejs](https://github.com/dimasjt/awesome/blob/master/nodejs.md)
