@@ -11,6 +11,11 @@
 
 * [Hacktiv8](https://www.youtube.com/playlist?list=PLuV55P9Zr0c2M9-wojkfAgsWJsyfxNV9A) (React, React-Native)
 
+# Chrome Extensions
+
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en) navigation like Vim
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) get framework, plugin, programming language used in website
+
 # NodeJS Packages
 
 * [joi](https://www.npmjs.com/package/joi) schema validation
