@@ -19,13 +19,6 @@
 * [Github Hovercard](https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk) get repo or user information by hover to the link
 * [Github tree](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc) show tree directories and files in repo
 
-# NodeJS Packages
+# Website
 
-* [joi](https://www.npmjs.com/package/joi) schema validation
-* [mongoose](https://www.npmjs.com/package/mongoose) MongoDB
-* [nodemon](https://www.npmjs.com/package/nodemon) auto restart server
-* [axios](https://www.npmjs.com/package/axios) Promise based HTTP
-
-# VIM
-
-* [auto-pairs](https://github.com/jiangmiao/auto-pairs)
+* [Learn Anything](https://learn-anything.xyz/)
